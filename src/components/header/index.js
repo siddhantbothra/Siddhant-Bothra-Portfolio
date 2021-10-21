@@ -1,0 +1,30 @@
+import React , {useState}from 'react'
+import Web from './webmenu/index'
+import Mobile from './mobilemenu/index'
+import './header.css'
+
+function Header() {
+    const [isOpen,setIsOpen] = useState(false);
+    return (
+        <div className="header">
+            <div className="logo">
+                Portfolio
+            </div>
+            <div className="menu">
+                <div className='web'>
+                    <Web/>
+                </div>
+                <div className ='mobile'>
+                    <div onClick = { () => setIsOpen(!isOpen)}>
+                    <i className="fi fi-rr-apps menu-icon"></i>
+                    </div>
+                
+                    {isOpen &&<Mobile isOpen = {isOpen}  setIsOpen = {setIsOpen}/>}
+                </div>
+            </div>
+            
+        </div>
+    )
+}
+
+export default Header

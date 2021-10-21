@@ -1,0 +1,22 @@
+export const Socialdata =[
+    {
+        platform:"Instagram",
+        link:"",
+        logo:require('../../images/instagram.png').default,
+    },
+    {
+        platform:"facebook",
+        link:"",
+        logo:require('../../images/facebook.png').default,
+    },
+    {
+        platform:"Github",
+        link:"",
+        logo:require('../../images/github.png').default,
+    },
+    {
+        platform:"Linkedin",
+        link:"",
+        logo:require('../../images/linkedin.png').default,
+    }
+]
