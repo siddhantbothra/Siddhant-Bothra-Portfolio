@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Siddhant-Bothra-Portfolio/static/css/main.a64a0877.chunk.css",
+    "main.js": "/Siddhant-Bothra-Portfolio/static/js/main.0c8fa483.chunk.js",
+    "main.js.map": "/Siddhant-Bothra-Portfolio/static/js/main.0c8fa483.chunk.js.map",
+    "runtime-main.js": "/Siddhant-Bothra-Portfolio/static/js/runtime-main.28e67f78.js",
+    "runtime-main.js.map": "/Siddhant-Bothra-Portfolio/static/js/runtime-main.28e67f78.js.map",
+    "static/js/2.0021cf4a.chunk.js": "/Siddhant-Bothra-Portfolio/static/js/2.0021cf4a.chunk.js",
+    "static/js/2.0021cf4a.chunk.js.map": "/Siddhant-Bothra-Portfolio/static/js/2.0021cf4a.chunk.js.map",
+    "index.html": "/Siddhant-Bothra-Portfolio/index.html",
+    "static/css/main.a64a0877.chunk.css.map": "/Siddhant-Bothra-Portfolio/static/css/main.a64a0877.chunk.css.map",
+    "static/js/2.0021cf4a.chunk.js.LICENSE.txt": "/Siddhant-Bothra-Portfolio/static/js/2.0021cf4a.chunk.js.LICENSE.txt",
+    "static/media/Coding.png": "/Siddhant-Bothra-Portfolio/static/media/Coding.18c5debc.png",
+    "static/media/analogclock.png": "/Siddhant-Bothra-Portfolio/static/media/analogclock.2d26ec7c.png",
+    "static/media/facebook.png": "/Siddhant-Bothra-Portfolio/static/media/facebook.5c2a3fec.png",
+    "static/media/github.png": "/Siddhant-Bothra-Portfolio/static/media/github.41a95b4f.png",
+    "static/media/instagram.png": "/Siddhant-Bothra-Portfolio/static/media/instagram.a7ae1774.png",
+    "static/media/linkedin.png": "/Siddhant-Bothra-Portfolio/static/media/linkedin.ddf3172b.png",
+    "static/media/passengercounter.png": "/Siddhant-Bothra-Portfolio/static/media/passengercounter.ffc4fb0a.png",
+    "static/media/resume.pdf": "/Siddhant-Bothra-Portfolio/static/media/resume.0fbf8009.pdf",
+    "static/media/tata.png": "/Siddhant-Bothra-Portfolio/static/media/tata.eda60ed8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28e67f78.js",
+    "static/js/2.0021cf4a.chunk.js",
+    "static/css/main.a64a0877.chunk.css",
+    "static/js/main.0c8fa483.chunk.js"
+  ]
+}
